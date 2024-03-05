@@ -1,0 +1,153 @@
+#principal
+{
+    width: 1500px;
+    height: 1500px;
+    background-color: blue;
+    margin: 20px;
+}
+#sombrero1
+{
+    width: 300px;
+    height: 80px;
+    background-color: maroon;
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    display:inline-block;
+    position: relative;
+    left: 550px;
+    top:50px;
+}
+#cara
+{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(248, 197, 197);
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    border-radius: 250px;
+    display:inline-block;
+    position: relative;
+    left: 150px;
+    top: 150px;
+}
+#sombrero
+{
+    width: 450px;
+    height: 100px;
+    background-color: maroon;
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    display:inline-block;
+    position: relative;
+    left: 20px;
+    top: 0px;
+}
+#cara-ojo1
+{
+    width: 80px;
+    height: 110px;
+    background-color: white;
+    border-radius: 100%/ 80% 80% 80% 80%;
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    display:inline-block;
+    position: absolute;
+    left: 170px;
+    top: 150px;  
+}
+#cara-ojo1a
+{
+    width: 30px;
+    height: 50px;
+    background-color: black;
+    border-radius: 100%/ 80% 80% 80% 80%;
+    display:inline-block;
+    position: absolute;
+    left: 200px;
+    top: 200px;  
+}
+#cara-ojo2
+{
+    width: 80px;
+    height: 110px;
+    background-color: white;
+    border-radius: 100%/ 80% 80% 80% 80%;
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    display:inline-block;
+    position: absolute;
+    left:260px;
+    top: 150px;  
+}
+#cara-ojo2a
+{
+    width: 30px;
+    height: 50px;
+    background-color: black;
+    border-radius: 100%/ 80% 80% 80% 80%;
+    display:inline-block;
+    position: absolute;
+    left: 290px;
+    top: 200px;  
+}
+#cara-nariz
+{
+    width: 100px;
+    height: 70px;
+    background-color: red;
+    border-radius: 200px 200px 300px 300px;
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    display:inline-block;
+    position: absolute;
+    left: 210px;
+    top: 240px;
+}
+#cara-boca
+{
+    width: 380px;
+    height: 160px;
+    background-color: rgb(233, 130, 57);
+    border-radius: 200px 200px 300px 300px;
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    display:inline-block;
+    position: absolute;
+    left: 60px;
+    top: 270px;
+}
+#cara-boca-1
+{
+    width: 200px;
+    height: 100px;
+    background-color: white;
+    border-radius: 200px 200px 300px 300px;
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    display:inline-block;
+    position: absolute;
+    left: 160px;
+    top: 300px;
+}
+#cara-boca-1-sonrisa
+{
+    width: 100px;
+    height: 20px;
+    background-color: rgb(4, 4, 4);
+    border-radius: 100%/ 0% 0% 180% 180%;
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    display:inline-block;
+    position: absolute;
+    left:210px;
+    top: 350px;  
+}
